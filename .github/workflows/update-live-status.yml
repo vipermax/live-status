@@ -1,11 +1,10 @@
 name: update-live-status
 
+# 2026-06-10: 定期実行は Cloudflare Worker (live-status.realtimeearth-yt.workers.dev、
+# Cron Trigger 10 分) に移行。GH schedule は新規 repo で間引かれた (実測 0.8 回/h)。
+# この workflow は手動 fallback (workflow_dispatch) としてのみ残す — 出力先が
+# repo の live.json で Worker の KV とは独立な点に注意 (ページはもう Worker を見ている)。
 on:
-  schedule:
-    # */5 は GitHub の schedule キューで間引かれた (2026-06-10、新規 repo は特に劣後) →
-    # 10 分間隔 + 混雑する 0/5 分を避けたオフセットに変更。client 側 (app.js v15) が
-    # 自己回復するので 10 分鮮度で十分
-    - cron: '2,12,22,32,42,52 * * * *'
   workflow_dispatch:
 
 permissions:
