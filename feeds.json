@@ -65,30 +65,6 @@
       "titleMatch": "第3|カメラ3|③|Cam ?3"
     },
     {
-      "id": "wangan-wide",
-      "name": "湾岸Go 広角",
-      "handle": "@WanganGo",
-      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
-      "fallbackVideoId": "DLsYMox4rCY",
-      "titleMatch": "広角|ゲートブリッジ|wide"
-    },
-    {
-      "id": "wangan-c",
-      "name": "湾岸Go C滑走路",
-      "handle": "@WanganGo",
-      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
-      "fallbackVideoId": "yfTZzIaaf1I",
-      "titleMatch": "C滑走路|Ｃ滑走路"
-    },
-    {
-      "id": "wangan-d",
-      "name": "湾岸Go D滑走路",
-      "handle": "@WanganGo",
-      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
-      "fallbackVideoId": "LZlHg3vzwe0",
-      "titleMatch": "D滑走路|Ｄ滑走路"
-    },
-    {
       "id": "8k12k",
       "name": "Japan 8K12K TV",
       "handle": "@japan8k12ktv6",
@@ -120,6 +96,13 @@
       "channelId": null,
       "fallbackVideoId": "3w4zEyFamuA",
       "titleMatch": "Haneda|Tokyo International"
+    }
+  ],
+  "excludedChannels": [
+    {
+      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
+      "name": "湾岸Go (TOKYO BAY LIVE CAMERA)",
+      "reason": "2026-06-10 掲載終了 (運営判断)。discovery で再提案しない"
     }
   ]
 }
