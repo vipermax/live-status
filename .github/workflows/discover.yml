@@ -1,0 +1,36 @@
+name: discover-haneda-lives
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 毎週月曜 09:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Discover live streams
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: node discover.mjs
+
+      - name: Commit discovery.json if changed
+        run: |
+          if [ -n "$(git status --porcelain discovery.json)" ]; then
+            git config user.name "live-status-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add discovery.json
+            git commit -m "discovery.json update"
+            git pull --rebase
+            git push
+          fi
