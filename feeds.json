@@ -92,10 +92,18 @@
       "id": "8k12k",
       "name": "Japan 8K12K TV",
       "handle": "@japan8k12ktv6",
-      "channelId": null,
-      "fallbackVideoId": null,
+      "channelId": "UCkcGBzZQKLMvMO3IbT5TgLg",
+      "fallbackVideoId": "TepIYVoLbjM",
       "activeHoursJst": [10, 20],
       "titleMatch": "羽田|Haneda|HND"
+    },
+    {
+      "id": "bigwings",
+      "name": "BIG WINGS",
+      "handle": "@BIG-WINGS-zuckey",
+      "channelId": "UCs5WL80qH73nKnbGwpQ4mLw",
+      "fallbackVideoId": "LM7IW4qY_lI",
+      "titleMatch": "羽田|HANEDA|T2"
     }
   ]
 }
