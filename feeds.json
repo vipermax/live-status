@@ -1,0 +1,101 @@
+{
+  "feeds": [
+    {
+      "id": "rte-hnd",
+      "name": "World Airports Live",
+      "handle": "@WorldAirportsLive",
+      "channelId": "UCm9WXAbkLoFmbsGEKJpGP9A",
+      "fallbackVideoId": "2DBxDBGSPk8",
+      "titleMatch": "羽田|HND"
+    },
+    {
+      "id": "ntv-t2",
+      "name": "日テレNEWS T2",
+      "handle": "@ntv_news",
+      "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+      "fallbackVideoId": "2PIdi3Xa7TY",
+      "titleMatch": "第2ターミナル|第２|T2"
+    },
+    {
+      "id": "ntv-t1t3",
+      "name": "日テレNEWS T1/T3",
+      "handle": "@ntv_news",
+      "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+      "fallbackVideoId": "iyr7uZ3H05I",
+      "titleMatch": "第1.*第3|第１.*第３|T1.*T3"
+    },
+    {
+      "id": "tbs-t1",
+      "name": "TBS NEWS DIG T1",
+      "handle": "@tbsnewsdig",
+      "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+      "fallbackVideoId": "My-xcE-_9as",
+      "titleMatch": "第1ターミナル|第１|T1"
+    },
+    {
+      "id": "tbs-t2",
+      "name": "TBS NEWS DIG T2",
+      "handle": "@tbsnewsdig",
+      "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+      "fallbackVideoId": "dYpspgeXSaQ",
+      "titleMatch": "第2ターミナル|第２|T2"
+    },
+    {
+      "id": "asahi-1",
+      "name": "朝日新聞LIVE 第1",
+      "handle": "@LIVE-hr9eo",
+      "channelId": null,
+      "fallbackVideoId": "_o2Ejpmets8",
+      "titleMatch": "第1|カメラ1|①|Cam ?1"
+    },
+    {
+      "id": "asahi-2",
+      "name": "朝日新聞LIVE 第2",
+      "handle": "@LIVE-hr9eo",
+      "channelId": null,
+      "fallbackVideoId": "G7djnZQ-OPc",
+      "titleMatch": "第2|カメラ2|②|Cam ?2"
+    },
+    {
+      "id": "asahi-3",
+      "name": "朝日新聞LIVE 第3",
+      "handle": "@LIVE-hr9eo",
+      "channelId": null,
+      "fallbackVideoId": "0ytmbJ6mn70",
+      "titleMatch": "第3|カメラ3|③|Cam ?3"
+    },
+    {
+      "id": "wangan-wide",
+      "name": "湾岸Go 広角",
+      "handle": "@WanganGo",
+      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
+      "fallbackVideoId": "DLsYMox4rCY",
+      "titleMatch": "広角|ゲートブリッジ|wide"
+    },
+    {
+      "id": "wangan-c",
+      "name": "湾岸Go C滑走路",
+      "handle": "@WanganGo",
+      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
+      "fallbackVideoId": "yfTZzIaaf1I",
+      "titleMatch": "C滑走路|Ｃ滑走路"
+    },
+    {
+      "id": "wangan-d",
+      "name": "湾岸Go D滑走路",
+      "handle": "@WanganGo",
+      "channelId": "UCwalBJrcoOVwid4wKfWkRiA",
+      "fallbackVideoId": "LZlHg3vzwe0",
+      "titleMatch": "D滑走路|Ｄ滑走路"
+    },
+    {
+      "id": "8k12k",
+      "name": "Japan 8K12K TV",
+      "handle": "@japan8k12ktv6",
+      "channelId": null,
+      "fallbackVideoId": null,
+      "activeHoursJst": [10, 20],
+      "titleMatch": "羽田|Haneda|HND"
+    }
+  ]
+}
