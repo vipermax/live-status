@@ -1,0 +1,40 @@
+name: update-live-status
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-status
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Resolve live status
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: node resolver.mjs
+
+      - name: Commit live.json if changed
+        run: |
+          if ! git diff --quiet -- live.json; then
+            git config user.name "live-status-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add live.json
+            git commit -m "live.json update"
+            git pull --rebase
+            git push
+          fi
