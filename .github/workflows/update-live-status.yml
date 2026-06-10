@@ -2,7 +2,10 @@ name: update-live-status
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    # */5 は GitHub の schedule キューで間引かれた (2026-06-10、新規 repo は特に劣後) →
+    # 10 分間隔 + 混雑する 0/5 分を避けたオフセットに変更。client 側 (app.js v15) が
+    # 自己回復するので 10 分鮮度で十分
+    - cron: '2,12,22,32,42,52 * * * *'
   workflow_dispatch:
 
 permissions:
