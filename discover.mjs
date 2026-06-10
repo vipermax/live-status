@@ -17,10 +17,13 @@ if (!KEY) {
 
 const QUERIES = ['羽田空港 ライブ', 'haneda airport live', 'haneda live'];
 
-const { feeds } = JSON.parse(readFileSync(new URL('./feeds.json', import.meta.url), 'utf8'));
+const { feeds, excludedChannels = [] } = JSON.parse(readFileSync(new URL('./feeds.json', import.meta.url), 'utf8'));
 const prev = existsSync('live.json') ? JSON.parse(readFileSync('live.json', 'utf8')) : {};
+// excludedChannels: 意図的に掲載をやめたチャンネル (feeds から消すと「新候補」として
+// 毎週再提案されてしまうため、known 扱いに含めて discovery から除外する)
 const knownChannels = new Set([
   ...feeds.map((f) => f.channelId).filter(Boolean),
+  ...excludedChannels.map((e) => e.channelId).filter(Boolean),
   ...Object.values(prev.channelIds || {}),
 ]);
 
