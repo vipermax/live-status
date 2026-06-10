@@ -104,6 +104,22 @@
       "channelId": "UCs5WL80qH73nKnbGwpQ4mLw",
       "fallbackVideoId": "LM7IW4qY_lI",
       "titleMatch": "羽田|HANEDA|T2"
+    },
+    {
+      "id": "ann-t2",
+      "name": "ANNnewsCH T2",
+      "handle": "@ANNnewsCH",
+      "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+      "fallbackVideoId": "mOZPHd2yOkA",
+      "titleMatch": "羽田|第2|T2|HANEDA"
+    },
+    {
+      "id": "ntv-en",
+      "name": "Nippon TV News (EN)",
+      "handle": "@NipponTVNews24Japan",
+      "channelId": null,
+      "fallbackVideoId": "3w4zEyFamuA",
+      "titleMatch": "Haneda|Tokyo International"
     }
   ]
 }
