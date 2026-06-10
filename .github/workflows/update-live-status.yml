@@ -30,7 +30,8 @@ jobs:
 
       - name: Commit live.json if changed
         run: |
-          if ! git diff --quiet -- live.json; then
+          # git diff は未追跡の新規ファイルを検出しないため status --porcelain で判定
+          if [ -n "$(git status --porcelain live.json)" ]; then
             git config user.name "live-status-bot"
             git config user.email "actions@users.noreply.github.com"
             git add live.json
