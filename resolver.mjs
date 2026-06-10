@@ -124,6 +124,19 @@ for (const [cid, group] of deadByChannel) {
         lives = [{ videoId: vid, title: it.snippet.title, embeddable: it.status?.embeddable !== false }];
       }
     }
+    // GH runner の IP には YouTube が consent/bot ページを返して scrape が失敗することがある
+    // → 取れなかった場合は search.list にフォールバック (quota 100u、MAX_SEARCH の枠内)
+    if (!lives.length && searchUsed < MAX_SEARCH) {
+      searchUsed += 1;
+      try {
+        const r = await yt('search', { part: 'snippet', channelId: cid, eventType: 'live', type: 'video', maxResults: '5' }, 100);
+        lives = (r.items || [])
+          .map((it) => ({ videoId: it.id?.videoId, title: it.snippet?.title || '', embeddable: true }))
+          .filter((l) => l.videoId && !assigned.has(l.videoId));
+      } catch (e) {
+        console.warn(`search フォールバック失敗 ${cid}: ${e.message}`);
+      }
+    }
   } else if (searchUsed < MAX_SEARCH) {
     // 同一チャンネル複数ライブ → search.list で全ライブ列挙し title で振り分け
     searchUsed += 1;
