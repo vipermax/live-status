@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T06:44:01.621Z",
+  "generated_at": "2026-06-10T07:22:21.792Z",
   "channelIds": {
     "@LIVE-hr9eo": "UCaHr0a1x8zmQ1dxanCeuesA",
     "@japan8k12ktv6": "UCkcGBzZQKLMvMO3IbT5TgLg"
@@ -10,84 +10,91 @@
       "isLive": true,
       "title": "🔴LIVE 羽田空港 ライブ配信中｜24時間 リアルタイム航空機マップ Tokyo Haneda HND",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "ntv-t2": {
       "videoId": "2PIdi3Xa7TY",
       "isLive": true,
       "title": "【ライブカメラ】羽田空港 \"T2\" HANEDA,Tokyo International Airport（日テレNEWS LIVE）",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
+    },
+    "tbs-t1": {
+      "videoId": "2f9NOSw-FqM",
+      "isLive": true,
+      "title": "【ライブ】羽田空港 第1ターミナルのライブカメラ 現在の様子は？Haneda Airport's Terminal 1| TBS NEWS DIG",
+      "embeddable": true,
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "tbs-t2": {
       "videoId": "dYpspgeXSaQ",
       "isLive": true,
       "title": "【ライブ】 羽田空港 第2ターミナルのライブカメラ 現在の様子は？Haneda Airport's Terminal 2| TBS NEWS DIG",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "asahi-1": {
       "videoId": "_o2Ejpmets8",
       "isLive": true,
       "title": "【LIVE】東京国際空港（羽田空港）ライブカメラ＠朝日新聞社格納庫",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "asahi-2": {
       "videoId": "G7djnZQ-OPc",
       "isLive": true,
       "title": "【LIVE】東京国際空港（羽田空港）ライブカメラ＠朝日新聞社格納庫　第２",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "asahi-3": {
       "videoId": "0ytmbJ6mn70",
       "isLive": true,
       "title": "【LIVE】東京国際空港（羽田空港）ライブカメラ＠朝日新聞社格納庫　第3",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "wangan-wide": {
       "videoId": "DLsYMox4rCY",
       "isLive": true,
       "title": "Interactive Tokyo Bay PTZ Live Cam 24/7 🎮 You Control the View | Japan Live Camera",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "wangan-d": {
       "videoId": "LZlHg3vzwe0",
       "isLive": true,
       "title": "Haneda Airport Live ✈️ Tokyo Plane Spotting | Japan Live Camera with City Pop Lo-fi",
       "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "8k12k": {
-      "videoId": null,
-      "isLive": false,
-      "title": null,
-      "embeddable": null,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "videoId": "TepIYVoLbjM",
+      "isLive": true,
+      "title": "🔵羽田空港  ライブカメラ Haneda Airport Live June 10, 2026   生中継 2026年6月10日 羽田空港ライブ",
+      "embeddable": true,
+      "checkedAt": "2026-06-10T07:22:21.792Z"
+    },
+    "bigwings": {
+      "videoId": "LM7IW4qY_lI",
+      "isLive": true,
+      "title": "🔶LIVE📡 '26/6/10 羽田空港 T2 Tokyo International Airport HANEDA T2  plane spotting",
+      "embeddable": true,
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "ntv-t1t3": {
       "videoId": null,
       "isLive": false,
       "title": null,
       "embeddable": null,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
-    },
-    "tbs-t1": {
-      "videoId": "2f9NOSw-FqM",
-      "isLive": true,
-      "title": "【ライブ】羽田空港 第1ターミナルのライブカメラ 現在の様子は？Haneda Airport&#39;s Terminal 1| TBS NEWS DIG",
-      "embeddable": true,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     },
     "wangan-c": {
       "videoId": null,
       "isLive": false,
       "title": null,
       "embeddable": null,
-      "checkedAt": "2026-06-10T06:44:01.621Z"
+      "checkedAt": "2026-06-10T07:22:21.792Z"
     }
   }
 }
