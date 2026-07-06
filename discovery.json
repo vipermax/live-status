@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T00:41:11.024Z",
+  "generated_at": "2026-07-06T00:31:22.152Z",
   "queries": [
     "羽田空港 ライブ",
     "haneda airport live",
@@ -9,34 +9,14 @@
   "known_channels": 9,
   "candidates": [
     {
-      "videoId": "Gx7n6qKzgfI",
-      "title": "KSFO LIVE | SUNDAY JUNE 14, 2026 - SAN FRANCISCO INT AIRPORT  LIVE STREAM IRL",
-      "channelId": "UC5PNUCvYkt6PxAmgvAV8x8g",
-      "channelTitle": "Cali Planes",
+      "videoId": "H-bgdKWaDgI",
+      "title": "🔴LIVE JFK AIRPORT TWA Hotel! | FINAL DAY JULY 5, 2026! | JFK PLANE SPOTTING",
+      "channelId": "UC7WAqB7dyv1t8jKunD-8krA",
+      "channelTitle": "L.A FLIGHTS",
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "616"
-    },
-    {
-      "videoId": "12KqO5IBLeY",
-      "title": "🔴LIVE 24/7 LAX Airport Action Runways 24L &amp; 24R | LIVE Plane Spotting with ATC!",
-      "channelId": "UCox5yCEEjk4iYbhLgyj90EQ",
-      "channelTitle": "AirlineVideosLive+",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "508"
-    },
-    {
-      "videoId": "_k-5U7IeK8g",
-      "title": "Tokyo Live Camera 東京ライブカメラ 勉強・作業・集中・リラックス with Lofi and soft jazz BGM",
-      "channelId": "UCaaSp7JYkACHR-Sr-p3OHeQ",
-      "channelTitle": "Tokyo Views ",
-      "foundBy": "haneda live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "425"
+      "viewers": "1742"
     },
     {
       "videoId": "rVLCmSXhXtg",
@@ -46,17 +26,7 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": false,
-      "viewers": "391"
-    },
-    {
-      "videoId": "9wRUrnqFo8A",
-      "title": "🔴LIVE 24/7 LAX Airport Action Runways 25L &amp; 25R | LIVE Plane Spotting with ATC!",
-      "channelId": "UCox5yCEEjk4iYbhLgyj90EQ",
-      "channelTitle": "AirlineVideosLive+",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "189"
+      "viewers": "300"
     },
     {
       "videoId": "DjdUEyjx8GM",
@@ -66,17 +36,7 @@
       "foundBy": "haneda live",
       "live": true,
       "embeddable": true,
-      "viewers": "169"
-    },
-    {
-      "videoId": "67BCsiW-1Io",
-      "title": "Midway Airport | Chicago, IL USA | StreamTime LIVE  4K",
-      "channelId": "UCrtIIVfi-5tMlVXdMDzOMUA",
-      "channelTitle": "StreamTime Live",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "105"
+      "viewers": "167"
     },
     {
       "videoId": "cTD7nITGhE0",
@@ -86,7 +46,7 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "82"
+      "viewers": "102"
     },
     {
       "videoId": "GLQhbRGv5qU",
@@ -96,11 +56,11 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "77"
+      "viewers": "98"
     },
     {
-      "videoId": "zvRwBTQYdIs",
-      "title": "3D羽田空港 ライブカメラ Haneda Airport Live June 13, 2026 生中継 2026年6月11日 羽田空港ライブ",
+      "videoId": "rhb2FeH_-YU",
+      "title": "東京羽田空港 (ライブ3Dカメラ) 3D LIVE Tokyo Haneda Airport (RJTT/HND)ATC + WX(6/7/2026)",
       "channelId": "UCHB8-XbfawI0QsLTryrRnUA",
       "channelTitle": "Live 3D Airport ATC + WX",
       "foundBy": "羽田空港 ライブ",
@@ -109,14 +69,44 @@
       "viewers": "69"
     },
     {
-      "videoId": "Yzl9offu5g8",
-      "title": "【LIVE】沖縄・那覇空港（Naha Airport） Okinawa JAPAN｜RBC News",
-      "channelId": "UCl27leged0PT2kIrRtrFYKA",
-      "channelTitle": "【琉球放送】RBC NEWS",
+      "videoId": "NAuMwYBWbfU",
+      "title": "【LIVE】大阪・伊丹空港のライブカメラ 　飛行機の離着陸や空港の様子は？ OSAKA  Itami Airport【生配信】",
+      "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
+      "channelTitle": "MBS NEWS",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "64"
+      "viewers": "53"
+    },
+    {
+      "videoId": "67BCsiW-1Io",
+      "title": "Midway Airport | Chicago, IL USA | StreamTime LIVE  4K",
+      "channelId": "UCrtIIVfi-5tMlVXdMDzOMUA",
+      "channelTitle": "StreamTime Live",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "50"
+    },
+    {
+      "videoId": "IDXRscHtp2s",
+      "title": "とかち帯広空港ライブカメラ Live Camera in The Tokachi-Obihiro Airport, Hokkaido in Japan",
+      "channelId": "UCT-PZ211r3_9mFdF0zC1HHg",
+      "channelTitle": "十勝毎日新聞",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "40"
+    },
+    {
+      "videoId": "2IQmpCXbOmM",
+      "title": "Iconic SXM Airport LIVE 24/7 – Sint Maarten Maho Beach",
+      "channelId": "UCcGI_kXwKl_QhyW9jK_8gIA",
+      "channelTitle": "Flightradar24",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "30"
     },
     {
       "videoId": "Azbdr5jbN6o",
@@ -126,47 +116,7 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "40"
-    },
-    {
-      "videoId": "ZrePsYz4c6g",
-      "title": "【LIVE】関西国際空港(KIX)ライブカメラ　第1ターミナル｜ Kansai International Airport - Osaka, Japan＜カンテレNEWS＞",
-      "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
-      "channelTitle": "カンテレNEWS",
-      "foundBy": "haneda live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "39"
-    },
-    {
-      "videoId": "7eXPzn0iocI",
-      "title": "【LIVE】#福岡空港の今の様子　FBS福岡放送　#ライブカメラ #ライブ配信 #空港",
-      "channelId": "UC3X-tn7gpipCqOdYWCmdyJQ",
-      "channelTitle": "FBS福岡放送ニュース",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": false,
-      "viewers": "28"
-    },
-    {
-      "videoId": "nVeVH2ssSYI",
-      "title": "大阪空港ライブカメラ",
-      "channelId": "UCVdRvQptqqoLJA9s4_QcpiQ",
-      "channelTitle": "Kansai HD",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "21"
-    },
-    {
-      "videoId": "2_xfV8n40pY",
-      "title": "【3D LIVE】羽田空港  4K リアルタイム 3D Map｜上空からの 飛行機の着陸・離陸を3D表示 ［24H］",
-      "channelId": "UClBBTDumgJDB5K8l6dPojWw",
-      "channelTitle": "8K VIDEO",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "14"
+      "viewers": "26"
     },
     {
       "videoId": "XHnrgK4sEDE",
@@ -176,30 +126,40 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "11"
+      "viewers": "15"
+    },
+    {
+      "videoId": "nVeVH2ssSYI",
+      "title": "大阪空港ライブカメラ",
+      "channelId": "UCVdRvQptqqoLJA9s4_QcpiQ",
+      "channelTitle": "Kansai HD",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "6"
+    },
+    {
+      "videoId": "qaiMNZcJECY",
+      "title": "【3D LIVE】羽田空港  4K リアルタイム 3D Map｜上空からの 飛行機の着陸・離陸を3D表示",
+      "channelId": "UClBBTDumgJDB5K8l6dPojWw",
+      "channelTitle": "8K VIDEO",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "5"
     },
     {
       "videoId": "DQ7QYBRWP1Q",
       "title": "羽田空港(HND,RJTT)上空から航空機を追跡！Tracking Aircraft from Above Haneda Airport (HND, RJTT)!",
       "channelId": "UCFUm1htNQQPAt8U05vuqmLQ",
       "channelTitle": "羽田空港行ったつもり",
-      "foundBy": "haneda airport live",
+      "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "2"
+      "viewers": "3"
     },
     {
-      "videoId": "11INCtK6uiA",
-      "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel",
-      "channelId": "UC3yyv3A3atZf0d0ybFMrhbw",
-      "channelTitle": "Airplane Live",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "2"
-    },
-    {
-      "videoId": "VkVRHyu0_LI",
+      "videoId": "3I6wdaedmqQ",
       "title": "羽田空港 ライブ｜RJTT Tokyo International Airport｜フライト情報・発着案内・航空機ライブ配信",
       "channelId": "UCSgoguyyfrF5m2DpaVdFgMg",
       "channelTitle": "AirTraffic Monitor Japan",
@@ -209,27 +169,17 @@
       "viewers": null
     },
     {
-      "videoId": "uahhp9tIZs8",
-      "title": "【LIVE】広島空港ライブカメラ Live Camera @Hiroshima Airport HIJ/RJOA【RCC NEWS DIG】",
-      "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
-      "channelTitle": "RCC NEWS DIG Powered by JNN",
-      "foundBy": "羽田空港 ライブ",
+      "videoId": "11INCtK6uiA",
+      "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel",
+      "channelId": "UC3yyv3A3atZf0d0ybFMrhbw",
+      "channelTitle": "Airplane Live",
+      "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
       "viewers": null
     },
     {
-      "videoId": "rjndX9hu5dk",
-      "title": "成田空港 ライブ｜RJAA Narita International Airport｜フライト情報・発着案内・航空機ライブ配信",
-      "channelId": "UCSgoguyyfrF5m2DpaVdFgMg",
-      "channelTitle": "AirTraffic Monitor Japan",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": false,
-      "viewers": null
-    },
-    {
-      "videoId": "oBzTjWQ68MU",
+      "videoId": "0xfq3FQxJnM",
       "title": "羽田空港3Dライブ",
       "channelId": "UC5fKtM85mqRbODnA9uGTNqQ",
       "channelTitle": "伊藤研究室  データサイエンスと航空機運航の接点を広げる",
