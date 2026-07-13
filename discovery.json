@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T00:31:22.152Z",
+  "generated_at": "2026-07-13T02:02:12.775Z",
   "queries": [
     "羽田空港 ライブ",
     "haneda airport live",
@@ -9,24 +9,24 @@
   "known_channels": 9,
   "candidates": [
     {
-      "videoId": "H-bgdKWaDgI",
-      "title": "🔴LIVE JFK AIRPORT TWA Hotel! | FINAL DAY JULY 5, 2026! | JFK PLANE SPOTTING",
-      "channelId": "UC7WAqB7dyv1t8jKunD-8krA",
-      "channelTitle": "L.A FLIGHTS",
+      "videoId": "_k-5U7IeK8g",
+      "title": "Tokyo Live Camera 東京ライブカメラ 勉強・作業・集中・リラックス with Lofi and soft jazz BGM",
+      "channelId": "UCaaSp7JYkACHR-Sr-p3OHeQ",
+      "channelTitle": "Tokyo Views ",
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "1742"
+      "viewers": "343"
     },
     {
       "videoId": "rVLCmSXhXtg",
       "title": "LIVE cameras around Japan! Let&#39;s armchair travel! | smooth jazz music",
       "channelId": "UCO3TJbHlgOoC-u9-0tcllOQ",
       "channelTitle": "Armchair Traveler",
-      "foundBy": "羽田空港 ライブ",
+      "foundBy": "haneda live",
       "live": true,
       "embeddable": false,
-      "viewers": "300"
+      "viewers": "288"
     },
     {
       "videoId": "DjdUEyjx8GM",
@@ -36,17 +36,17 @@
       "foundBy": "haneda live",
       "live": true,
       "embeddable": true,
-      "viewers": "167"
+      "viewers": "179"
     },
     {
-      "videoId": "cTD7nITGhE0",
-      "title": "【LIVE】✈️福岡空港ライブカメラ Fukuoka Airport Live Camera 24/7",
-      "channelId": "UCOsw8Of0n0JFV-nbnAmDizw",
-      "channelTitle": "福岡空港ライブカメラ",
+      "videoId": "Yzl9offu5g8",
+      "title": "【LIVE】沖縄・那覇空港（Naha Airport） Okinawa JAPAN｜RBC News",
+      "channelId": "UCl27leged0PT2kIrRtrFYKA",
+      "channelTitle": "【琉球放送】RBC NEWS",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "102"
+      "viewers": "85"
     },
     {
       "videoId": "GLQhbRGv5qU",
@@ -56,23 +56,33 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "98"
+      "viewers": "67"
     },
     {
-      "videoId": "rhb2FeH_-YU",
-      "title": "東京羽田空港 (ライブ3Dカメラ) 3D LIVE Tokyo Haneda Airport (RJTT/HND)ATC + WX(6/7/2026)",
-      "channelId": "UCHB8-XbfawI0QsLTryrRnUA",
-      "channelTitle": "Live 3D Airport ATC + WX",
+      "videoId": "cTD7nITGhE0",
+      "title": "【LIVE】✈️福岡空港ライブカメラ Fukuoka Airport Live Camera 24/7",
+      "channelId": "UCOsw8Of0n0JFV-nbnAmDizw",
+      "channelTitle": "福岡空港ライブカメラ",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "69"
+      "viewers": "60"
     },
     {
       "videoId": "NAuMwYBWbfU",
       "title": "【LIVE】大阪・伊丹空港のライブカメラ 　飛行機の離着陸や空港の様子は？ OSAKA  Itami Airport【生配信】",
       "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
       "channelTitle": "MBS NEWS",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "57"
+    },
+    {
+      "videoId": "BUoTPKHKlq4",
+      "title": "東京羽田空港(ライブ3Dカメラ) 3D Tokyo Haneda Airport (RJTT)ATC + WX",
+      "channelId": "UCHB8-XbfawI0QsLTryrRnUA",
+      "channelTitle": "Live 3D Airport ATC + WX",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
@@ -86,27 +96,7 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "50"
-    },
-    {
-      "videoId": "IDXRscHtp2s",
-      "title": "とかち帯広空港ライブカメラ Live Camera in The Tokachi-Obihiro Airport, Hokkaido in Japan",
-      "channelId": "UCT-PZ211r3_9mFdF0zC1HHg",
-      "channelTitle": "十勝毎日新聞",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "40"
-    },
-    {
-      "videoId": "2IQmpCXbOmM",
-      "title": "Iconic SXM Airport LIVE 24/7 – Sint Maarten Maho Beach",
-      "channelId": "UCcGI_kXwKl_QhyW9jK_8gIA",
-      "channelTitle": "Flightradar24",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "30"
+      "viewers": "52"
     },
     {
       "videoId": "Azbdr5jbN6o",
@@ -116,7 +106,27 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "26"
+      "viewers": "35"
+    },
+    {
+      "videoId": "2IQmpCXbOmM",
+      "title": "Iconic SXM Airport LIVE 24/7 – Sint Maarten Maho Beach",
+      "channelId": "UCcGI_kXwKl_QhyW9jK_8gIA",
+      "channelTitle": "Flightradar24",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "27"
+    },
+    {
+      "videoId": "xezlhJxWzow",
+      "title": "【LIVE】関西国際空港(KIX)ライブカメラ　第1ターミナル｜ Kansai International Airport - Osaka, Japan＜カンテレNEWS＞",
+      "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+      "channelTitle": "カンテレNEWS",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "25"
     },
     {
       "videoId": "XHnrgK4sEDE",
@@ -126,7 +136,27 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "15"
+      "viewers": "14"
+    },
+    {
+      "videoId": "ocTJIQPR1MM",
+      "title": "【3D LIVE】羽田空港  4K リアルタイム 3D Map｜上空からの 飛行機の着陸・離陸を3D表示",
+      "channelId": "UClBBTDumgJDB5K8l6dPojWw",
+      "channelTitle": "8K VIDEO",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "12"
+    },
+    {
+      "videoId": "N1_qXtzWA30",
+      "title": "【ライブ配信】中部国際空港（セントレア）・国際線（CHUBU CENTRAIR International Airport）#空港 #LIVEカメラ #中京テレビLIVE",
+      "channelId": "UCxiRdfyH0FtFCRZTRfRsdsA",
+      "channelTitle": "中京テレビNEWS",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "10"
     },
     {
       "videoId": "nVeVH2ssSYI",
@@ -136,27 +166,37 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "6"
+      "viewers": "9"
     },
     {
-      "videoId": "qaiMNZcJECY",
-      "title": "【3D LIVE】羽田空港  4K リアルタイム 3D Map｜上空からの 飛行機の着陸・離陸を3D表示",
-      "channelId": "UClBBTDumgJDB5K8l6dPojWw",
-      "channelTitle": "8K VIDEO",
+      "videoId": "prhi5doir6U",
+      "title": "[LIVE]仙台空港ライブカメラ / Live streaming from Sendai Airport",
+      "channelId": "UCNt5Ctj5uR_A5jTn_yZ9mVQ",
+      "channelTitle": "河北新報オンライン",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "5"
+      "viewers": "4"
     },
     {
-      "videoId": "DQ7QYBRWP1Q",
-      "title": "羽田空港(HND,RJTT)上空から航空機を追跡！Tracking Aircraft from Above Haneda Airport (HND, RJTT)!",
-      "channelId": "UCFUm1htNQQPAt8U05vuqmLQ",
-      "channelTitle": "羽田空港行ったつもり",
-      "foundBy": "羽田空港 ライブ",
+      "videoId": "11INCtK6uiA",
+      "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel",
+      "channelId": "UC3yyv3A3atZf0d0ybFMrhbw",
+      "channelTitle": "Airplane Live",
+      "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "3"
+      "viewers": "2"
+    },
+    {
+      "videoId": "K6qxmXyjWxg",
+      "title": "Watertown International Airport",
+      "channelId": "UCTuEAr2E3-931Nw9hbRu1vg",
+      "channelTitle": "Watertown Airport",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "1"
     },
     {
       "videoId": "3I6wdaedmqQ",
@@ -169,23 +209,13 @@
       "viewers": null
     },
     {
-      "videoId": "11INCtK6uiA",
-      "title": "✈️ RE-Live New York Planespotting with Highlights  (JFK) Airport!  #planespotting #twahotel",
-      "channelId": "UC3yyv3A3atZf0d0ybFMrhbw",
-      "channelTitle": "Airplane Live",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": null
-    },
-    {
-      "videoId": "0xfq3FQxJnM",
-      "title": "羽田空港3Dライブ",
-      "channelId": "UC5fKtM85mqRbODnA9uGTNqQ",
-      "channelTitle": "伊藤研究室  データサイエンスと航空機運航の接点を広げる",
+      "videoId": "adCaVlpH9FE",
+      "title": "(🔴LIVE) Frederic At Zepp Haneda (Tokyo), Tokyo, Japan",
+      "channelId": "UCgh0F-LhpaWBn2WKPH9HLWQ",
+      "channelTitle": "Felicity Ferguson",
       "foundBy": "haneda live",
       "live": true,
-      "embeddable": true,
+      "embeddable": false,
       "viewers": null
     }
   ]
