@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:39:21.320Z",
+  "generated_at": "2026-09-28T02:52:33.132Z",
   "queries": [
     "羽田空港 ライブ",
     "haneda airport live",
@@ -9,16 +9,6 @@
   "known_channels": 9,
   "candidates": [
     {
-      "videoId": "XHN5ht2QBpE",
-      "title": "🔴 ITAMI Airport 2026/9/21 大阪伊丹空港   ライブカメラ",
-      "channelId": "UCWoF__awzzxy8Ruc0GZUdkQ",
-      "channelTitle": "JIRO film。",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "1455"
-    },
-    {
       "videoId": "n4I0d44oBEs",
       "title": "🔴LIVE 24/7 LAX Airport Action Runways 24L &amp; 24R | LIVE Plane Spotting with ATC!",
       "channelId": "UCox5yCEEjk4iYbhLgyj90EQ",
@@ -26,7 +16,7 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "526"
+      "viewers": "471"
     },
     {
       "videoId": "rVLCmSXhXtg",
@@ -36,37 +26,27 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "472"
+      "viewers": "417"
     },
     {
-      "videoId": "Iv2VUE_UhRQ",
-      "title": "[4K] 上高地河童橋ライブカメラ KAMIKOCHI KAPPA-BASHI LIVE CAMERA",
-      "channelId": "UCVUyX8T-vYwJYraM6957r9Q",
-      "channelTitle": "五千尺ホテル上高地",
+      "videoId": "qfwDwEeaMuE",
+      "title": "🇯🇵✈️羽田空港 ライブカメラ Haneda Airport Live September 28, 2026 生中継 2026年9月28日 羽田空港ライブ",
+      "channelId": "UCdBWycb82SExdsG0nSFqQ2w",
+      "channelTitle": "AeroEye Japan",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "352"
+      "viewers": "388"
     },
     {
-      "videoId": "gFRtAAmiFbE",
-      "title": "【 LIVE 】 東京 新宿 歌舞伎町 ライブ ２ / 『 Kabukicho Live Channel II 』",
-      "channelId": "UCBFDJXGCOdMjVtg2AnReoXA",
-      "channelTitle": "歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』",
-      "foundBy": "羽田空港 ライブ",
+      "videoId": "KzsNnyN8D_Q",
+      "title": "🔴LIVE 24/7 LAX Airport Action Runways 25L &amp; 25R | LIVE Plane Spotting with ATC!",
+      "channelId": "UCox5yCEEjk4iYbhLgyj90EQ",
+      "channelTitle": "AirlineVideosLive+",
+      "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "318"
-    },
-    {
-      "videoId": "dfVK7ld38Ys",
-      "title": "【ライブ】いまの渋谷・スクランブル交差点　ライブカメラ　Shibuya Scramble Crossing - Tokyo, Japan　 Live Cam",
-      "channelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-      "channelTitle": "FNNプライムオンライン",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "317"
+      "viewers": "213"
     },
     {
       "videoId": "V7_orOtu-oo",
@@ -76,27 +56,17 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "226"
+      "viewers": "212"
     },
     {
-      "videoId": "fndY3LREfdE",
-      "title": "【iTSCOMライブ配信】二子玉川 ライブカメラ LIVE Camera/ Tokyo Futako Tamagawa",
-      "channelId": "UCPPFGmTUyM4iDIgp2_zJi5g",
-      "channelTitle": "iTSCOM",
+      "videoId": "_nUgTC9zJyc",
+      "title": "【LIVE】大阪・伊丹空港のライブカメラ 　飛行機の離着陸や空港の様子は？ OSAKA  Itami Airport【生配信】",
+      "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
+      "channelTitle": "MBS NEWS",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "196"
-    },
-    {
-      "videoId": "qQoBmgDKZiI",
-      "title": "台風25号接近｜羽田空港 24時間LIVE｜3D航空交通・離着陸・リアルタイム天気｜HND / RJTT",
-      "channelId": "UCHB8-XbfawI0QsLTryrRnUA",
-      "channelTitle": "Live 3D Airport ATC + WX",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "156"
+      "viewers": "100"
     },
     {
       "videoId": "OUBslrCqREs",
@@ -106,17 +76,7 @@
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "109"
-    },
-    {
-      "videoId": "slOgQojt8w8",
-      "title": "【上野原ライブカメラ】中央自動車道 上野原インターチェンジ 提供:UTYテレビ山梨",
-      "channelId": "UCk2oG--VyYST4SYyQkeadjA",
-      "channelTitle": "UTYテレビ山梨公式チャンネル",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "107"
+      "viewers": "98"
     },
     {
       "videoId": "Yzl9offu5g8",
@@ -126,37 +86,17 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "65"
+      "viewers": "76"
     },
     {
       "videoId": "cTD7nITGhE0",
       "title": "【LIVE】✈️福岡空港ライブカメラ Fukuoka Airport Live Camera 24/7",
       "channelId": "UCOsw8Of0n0JFV-nbnAmDizw",
       "channelTitle": "福岡空港ライブカメラ",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "55"
-    },
-    {
-      "videoId": "_nUgTC9zJyc",
-      "title": "【LIVE】大阪・伊丹空港のライブカメラ 　飛行機の離着陸や空港の様子は？ OSAKA  Itami Airport【生配信】",
-      "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
-      "channelTitle": "MBS NEWS",
       "foundBy": "haneda live",
       "live": true,
       "embeddable": true,
-      "viewers": "51"
-    },
-    {
-      "videoId": "B_Sc1v1qR-g",
-      "title": "「LIVECAMERA」草津温泉「湯畑」（移動式ライブカメラ）",
-      "channelId": "UCbn5eHDjwmPC2K9RG8P0i_A",
-      "channelTitle": "草津町公式YouTubeチャンネル",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "49"
+      "viewers": "57"
     },
     {
       "videoId": "uI8tWGe_FtA",
@@ -166,37 +106,17 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "46"
+      "viewers": "52"
     },
     {
-      "videoId": "67BCsiW-1Io",
-      "title": "Midway Airport | Chicago, IL USA | StreamTime LIVE  4K",
-      "channelId": "UCrtIIVfi-5tMlVXdMDzOMUA",
-      "channelTitle": "StreamTime Live",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "46"
-    },
-    {
-      "videoId": "CzgSFUAbE9s",
-      "title": "【ライブカメラ】福岡空港ライブカメラ/山口宇部空港ライブカメラ(Fukuoka Airport Live/Yamaguchi Ube Airport Live) テレビ西日本　Live配信",
-      "channelId": "UCZ0U1AoJOKVdlejhjUU1fBg",
-      "channelTitle": "福岡TNC ニュース",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
-      "viewers": "44"
-    },
-    {
-      "videoId": "tusny7uGPS8",
-      "title": "【LIVE】関西国際空港(KIX)ライブカメラ　第1ターミナル｜ Kansai International Airport - Osaka, Japan＜カンテレNEWS＞",
-      "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
-      "channelTitle": "カンテレNEWS",
+      "videoId": "qQoBmgDKZiI",
+      "title": "羽田空港 24時間LIVE｜3D航空交通・離着陸・リアルタイム天気｜HND / RJTT",
+      "channelId": "UCHB8-XbfawI0QsLTryrRnUA",
+      "channelTitle": "Live 3D Airport ATC + WX",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "35"
+      "viewers": "50"
     },
     {
       "videoId": "Azbdr5jbN6o",
@@ -206,27 +126,17 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "34"
+      "viewers": "37"
     },
     {
-      "videoId": "nVeVH2ssSYI",
-      "title": "大阪空港ライブカメラ",
-      "channelId": "UCVdRvQptqqoLJA9s4_QcpiQ",
-      "channelTitle": "Kansai HD",
+      "videoId": "CzgSFUAbE9s",
+      "title": "【ライブカメラ】福岡空港ライブカメラ/山口宇部空港ライブカメラ(Fukuoka Airport Live/Yamaguchi Ube Airport Live) テレビ西日本　Live配信",
+      "channelId": "UCZ0U1AoJOKVdlejhjUU1fBg",
+      "channelTitle": "福岡TNC ニュース",
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
-      "viewers": "32"
-    },
-    {
-      "videoId": "uPXvT-eE0To",
-      "title": "【LIVE】広島空港",
-      "channelId": "UCyHdFYJyt4Ihwuscuk5ALJA",
-      "channelTitle": "広テレ!NEWS",
-      "foundBy": "羽田空港 ライブ",
-      "live": true,
-      "embeddable": true,
-      "viewers": "28"
+      "viewers": "34"
     },
     {
       "videoId": "zNahac5x0Tw",
@@ -236,17 +146,57 @@
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
+      "viewers": "31"
+    },
+    {
+      "videoId": "2EfwG0g0rW4",
+      "title": "秋田空港 AKT情報カメラLIVE（夜間は秋田駅前情報カメラLIVE）",
+      "channelId": "UC7UzAjbjzvekhio8uEJXCpw",
+      "channelTitle": "AKT秋田テレビ（公式）",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
       "viewers": "26"
     },
     {
+      "videoId": "uPXvT-eE0To",
+      "title": "【LIVE】広島空港",
+      "channelId": "UCyHdFYJyt4Ihwuscuk5ALJA",
+      "channelTitle": "広テレ!NEWS",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "23"
+    },
+    {
       "videoId": "2ZDVsBl0hKE",
-      "title": "羽田空港 ライブ｜上空、地上から 飛行機の着陸・離陸を3D 4K表示｜ 24 時間 リアルタイム配信中",
+      "title": "🛫羽田空港 ライブ🛬上空、地上から 飛行機の着陸・離陸を3D 4K表示⏱ 24 時間 リアルタイム配信中🚨⚠ GO AROUND検知機能あり[Chat]🌅日出🌇夕焼けGFX",
       "channelId": "UClBBTDumgJDB5K8l6dPojWw",
       "channelTitle": "8K VIDEO",
       "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": true,
-      "viewers": "15"
+      "viewers": "5"
+    },
+    {
+      "videoId": "lPFnkCXhLpM",
+      "title": "🛫羽田空港 ライブ🛬2K低遅延版📺上空、地上から 飛行機の着陸・離陸を3D表示⏱ 24 時間 リアルタイム配信中",
+      "channelId": "UClBBTDumgJDB5K8l6dPojWw",
+      "channelTitle": "8K VIDEO",
+      "foundBy": "羽田空港 ライブ",
+      "live": true,
+      "embeddable": true,
+      "viewers": "3"
+    },
+    {
+      "videoId": "-Vu66pnPIZ8",
+      "title": "【LIVE】首都高 1号羽田線 浜崎橋JCT ライブカメラ/Tokyo highway Live Camera  2026/09/28  10:35～",
+      "channelId": "UCawcG-FdPCNSu_JGIAZH0OQ",
+      "channelTitle": "交通情報ライブカメラCH",
+      "foundBy": "haneda live",
+      "live": true,
+      "embeddable": true,
+      "viewers": "3"
     },
     {
       "videoId": "dS7WRoox60I",
@@ -263,29 +213,19 @@
       "title": "羽田空港 ライブ｜RJTT Tokyo International Airport｜フライト情報・発着案内・航空機ライブ配信",
       "channelId": "UCSgoguyyfrF5m2DpaVdFgMg",
       "channelTitle": "AirTraffic Monitor Japan",
-      "foundBy": "haneda live",
+      "foundBy": "羽田空港 ライブ",
       "live": true,
       "embeddable": false,
-      "viewers": "1"
+      "viewers": null
     },
     {
-      "videoId": "AXA9eLz5XEc",
-      "title": "【LIVE】首都高 1号羽田線 浜崎橋JCT ライブカメラ/Tokyo highway Live Camera  2026/09/19 01:00～",
-      "channelId": "UCawcG-FdPCNSu_JGIAZH0OQ",
-      "channelTitle": "交通情報ライブカメラCH",
-      "foundBy": "haneda live",
+      "videoId": "lwsHnoM5wQE",
+      "title": "【羽田空港 HND】出発ライブ | 空港案内表示板 リアルタイム配信 | Haneda Airport Departures LIVE",
+      "channelId": "UCv8kdLpRm9vPaSB2PaC6-DA",
+      "channelTitle": "flightboardJP",
+      "foundBy": "羽田空港 ライブ",
       "live": true,
-      "embeddable": true,
-      "viewers": "1"
-    },
-    {
-      "videoId": "QDn88yb6JyI",
-      "title": "Tokyo Haneda International Airport | 東京羽田国際空港 | Arrival &amp; Departure Information | @LiveAirways_JP",
-      "channelId": "UCQQ8dyyiFW0mq8toYhpigRg",
-      "channelTitle": "Live Airways Japan",
-      "foundBy": "haneda airport live",
-      "live": true,
-      "embeddable": true,
+      "embeddable": false,
       "viewers": null
     },
     {
@@ -293,6 +233,16 @@
       "title": "TOKYO SKY | 羽田空港 24/7 Flight Tracker over 東京 Tokyo Haneda HND / RJTT",
       "channelId": "UCwZTHBzo0fHVEWhydjW9vlQ",
       "channelTitle": "Tokyo Now! LIVE",
+      "foundBy": "haneda airport live",
+      "live": true,
+      "embeddable": true,
+      "viewers": null
+    },
+    {
+      "videoId": "QDn88yb6JyI",
+      "title": "Tokyo Haneda International Airport | 東京羽田国際空港 | Arrival &amp; Departure Information | @LiveAirways_JP",
+      "channelId": "UCQQ8dyyiFW0mq8toYhpigRg",
+      "channelTitle": "Live Airways Japan",
       "foundBy": "haneda airport live",
       "live": true,
       "embeddable": true,
